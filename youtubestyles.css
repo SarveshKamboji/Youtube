@@ -1,3 +1,4 @@
+
 a{
     color:black;
     text-decoration: none;
@@ -68,6 +69,7 @@ body{
     font-weight:400;
     font-size:12px;
     line-height:20px;
+    text-decoration: none;
 }
 
 .video-status{
